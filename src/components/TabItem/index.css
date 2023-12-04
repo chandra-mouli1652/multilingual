@@ -1,0 +1,13 @@
+.activeEl {
+  border: none;
+  outline: none;
+  color: #ffffff;
+}
+.notActive {
+  background-color: transparent;
+  color: #db1c48;
+}
+.button-list {
+  margin-top: 20px;
+  margin-right: 20px;
+}
